@@ -45,7 +45,7 @@ The Excel dashboard presents the main results using KPIs, charts, and interactiv
 
 ### Booking Analysis
 
-![Booking Analysis](booking.png)
+![Booking Analysis](bookings.png)
 
 ## Project Structure
 
