@@ -8,7 +8,7 @@ This project analyzes theatre booking data stored in a MySQL database. Python is
 
 ### Project Workflow
 
-**MySQL → Python (Pandas & Matplotlib) → Excel Dashboard**
+**MySQL → Python (Pandas & Matplotlib) →Excel Dashboard**
 
 ## Technologies
 
