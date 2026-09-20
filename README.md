@@ -37,15 +37,15 @@ The Excel dashboard presents the main results using KPIs, charts, and interactiv
 
 ### Overview
 
-![Theatre Dashboard Overview](overview.png)
+![Theatre Dashboard Overview](images/overview.png)
 
 ### Movies Analysis
 
-![Movies Analysis](movies.png)
+![Movies Analysis](images/movies.png)
 
 ### Booking Analysis
 
-![Booking Analysis](bookings.png)
+![Booking Analysis](images/bookings.png)
 
 ## Project Structure
 
