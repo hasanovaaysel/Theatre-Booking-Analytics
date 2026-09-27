@@ -43,7 +43,7 @@ The Excel dashboard presents the main results using KPIs, charts, and interactiv
 
 ![Movies Analysis](images/movies.png)
 
-### Booking Analysis
+###  Booking Analysis
 
 ![Booking Analysis](images/bookings.png)
 
